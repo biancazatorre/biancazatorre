@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Bianca 👋  
+Front-end Developer | UX | Digital Communication  
 
-<!--
-**biancazatorre/biancazatorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-end Developer with a strong background in **UX, SEO, and digital communication**, focused on building responsive, user-centered web and mobile interfaces.
 
-Here are some ideas to get you started:
+I have hands-on experience with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React & React Native  
+- JavaScript, HTML, CSS, Tailwind  
+- Java & PHP  
+- REST APIs & SQL databases  
+- Figma & UI/UX Design  
+
+My academic background includes Journalism, Content Management, and Internet Systems, which allows me to combine **technology, storytelling, and user experience** in every project.
+
+### 🌍 I'm open to:
+- Remote opportunities  
+- International positions  
+- Front-end / UX roles  
+
+### 🔗 Portfolios
+- 💻 GitHub Projects: https://github.com/biancazatorre  
+- 📝 Communication Portfolio: https://biancazatorre.pb.online  
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/bianca-zatorre-70563b143/  
+- Email: biancazatorre1997@gmail.com  
